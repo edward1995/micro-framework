@@ -13,7 +13,7 @@ class View
         unset($data);
         
         
-        
+       
         
         include 'apps/view/'.$this->template_view.".tpl";
     }
